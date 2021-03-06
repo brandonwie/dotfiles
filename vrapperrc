@@ -1,0 +1,9 @@
+imap jk <Esc>l
+
+let mapleader="<space>"
+
+nnoremap <leader>h :nohl
+
+nnoremap <leader>o o<Esc>
+nnoremap H ^
+nnoremap L $
